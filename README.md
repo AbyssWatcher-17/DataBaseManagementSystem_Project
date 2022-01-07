@@ -16,4 +16,7 @@
 
 * User can search the database for a specific author, or for specific keywords, or for specific years etc.
 ![image](https://user-images.githubusercontent.com/46622558/148534264-a7a8f98c-bcb8-4d1c-b407-1ec91d0064b3.png)
-![148534355-e64513ab-6e1b-442d-be31-005983b6b4eb](https://user-images.githubusercontent.com/46622558/148534376-31ec3472-ad76-482e-99c4-d54136e1bb5e.png)
+
+* Related results will return from the database
+![image](https://user-images.githubusercontent.com/46622558/148534546-0d45ed54-8e3e-46ca-bb7b-75d93035b4ef.png)
+
