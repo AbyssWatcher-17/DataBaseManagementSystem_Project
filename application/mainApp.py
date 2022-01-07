@@ -7,6 +7,7 @@ import tksheet
 # from updatePage_app import UpdatePage
 from database import connect_db
 
+# !! Queries that are sent to DB are open for any SQL injection !! #
 
 # TODO LIST:
 # 1.) Now we assume first records are PKs, there could be 2 PKs in one table.
