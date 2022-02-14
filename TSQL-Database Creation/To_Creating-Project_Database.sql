@@ -43,7 +43,7 @@ CREATE TABLE [University] (
    PRIMARY KEY ([UniversityName])
  );
 
-DROP TABLE [University]
+--DROP TABLE [University]
 
 CREATE TABLE [Institute] (
   [InstituteName] varchar(25) NOT NULL,
